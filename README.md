@@ -35,3 +35,7 @@ and used sprindoc-openapi-ui maven dependency
 (uncomment spring.mvc.pathmatch.matching-strategy=ANT_PATH_MATCHER in case of path error) 
 
 Now try http://localhost:8080/swagger-ui/index.html //or http://localhost:8080/{BASE_PATH}/swagger-ui/index.html
+
+
+//Documentation using swagger UI
+https://www.baeldung.com/spring-rest-openapi-documentation

@@ -7,8 +7,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-import org.springframework.boot.jackson.JsonComponent;
-
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import lombok.Data;
